@@ -4,7 +4,7 @@ Before we get started with downloading and setting up Unity, please make sure th
 
 **Note for those who have previously used GitHub through the command line:** Trust me, GitHub Desktop will make your life much easier. :)
 
-Now, go to [Unity's website](https://unity.com/releases/unity-6) and download Unity Hub. You can use your school email address to create a Unity account. Once Unity Hub is installed, it should look something like this:
+Now, go to [Unity's website](https://unity.com/releases/unity-6) and download Unity Hub. You can use your school email address to create a Unity account. Once Unity Hub is installed, it should look something like this after you sign in:
 
 ![Basic Unity Hub Page](/Images/Basic.png)
 
