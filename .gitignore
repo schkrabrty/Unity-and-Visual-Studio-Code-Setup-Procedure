@@ -1,0 +1,17 @@
+.vsconfig
+.vscode/
+Icon?
+.DS_Store
+.idea/
+.vs/
+*.7z
+.fake
+__MACOSX/
+
+.positai
+.venv-transcription/
+.venv/
+.claude/
+__pycache__/
+*.pyc
+*.pyo
